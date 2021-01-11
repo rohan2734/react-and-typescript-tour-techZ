@@ -1,0 +1,7 @@
+interface: 
+ it creates a new type
+ you can extend interfaces
+
+type:
+it is a type, references another type
+you cannot extend types

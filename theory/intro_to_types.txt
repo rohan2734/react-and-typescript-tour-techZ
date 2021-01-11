@@ -1,0 +1,15 @@
+tuples:
+let arr:[number,string,number] = [1,'one',2]
+
+enum:
+Outcome{Win,Lose,Draw}
+
+any:
+let arr:any = [1,2,3]
+
+void: doesnt return anything
+function check(): void{
+    console.log('check')
+}
+
+
