@@ -1,0 +1,1 @@
+*javascript is loosly typing, it is when the language, assignes the types to variables, without we doing anything.
