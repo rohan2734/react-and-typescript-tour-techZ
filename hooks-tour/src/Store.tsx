@@ -1,7 +1,7 @@
 import React, { createContext } from "react";
 
 interface IState {
-  episodes: [];
+  episodes: []; //[] or Array<"">
   favourites: Array<"">;
 }
 
